@@ -11,7 +11,7 @@ function johnLennonFacts(facts) {
   for (var i = 0; i < facts.length; i++) {
     exclamation.push(`${facts[i]}!!!`)
   }
-  return excamation;
+  return exclamation;
 }
 
 function iLoveTheBeatles(num) {
